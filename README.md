@@ -92,8 +92,6 @@ Improved UI animations
 
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/43a678de-4c8d-4089-8640-7fe933bb0aec" />
 
-
-
 👤 Author
 
 Himanshu Kaloni
