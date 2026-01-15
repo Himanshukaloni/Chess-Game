@@ -90,8 +90,9 @@ Improved UI animations
 
 📸 Screenshots
 
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/43a678de-4c8d-4089-8640-7fe933bb0aec" />
 
-(Add screenshots of the chessboard and gameplay here)
+
 
 👤 Author
 
